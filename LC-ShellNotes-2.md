@@ -1,5 +1,5 @@
 
-# Library Caprentry - Counting with the Shell
+# Library Caprentry - Counting with the Shell Lesson 2 - part 1
 
 #### Objectives
 * understand how to count lines, words, and characters with the shell
@@ -119,7 +119,7 @@ With these three flags, the most obvious thing we can use **wc** for is to **qui
 * for example word counts per page of a book, the distribution of characters per page across a collection of newspapers, the average line lengths used by poets. 
 * You can also use **wc** with a combination of wildcards and flags to build more complex queries.
 
-### Exercise - wc flags (2 mins
+### Exercise - wc flags (2 mins)
 Can you guess what the line **wc -l 2014-01-31_JA-a*.tsv** will do?  (try running the command)
 
 
